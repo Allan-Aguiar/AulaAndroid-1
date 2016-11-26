@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cor1">#ff0000ff</color>
+    <color name="cor2">#ffff0000</color>
+    <color name="cor3">#ffef8781</color>
+    <color name="cor4">#1db982</color>
+    <color name="cor5">#b9b11d</color>
+    <color name="cor6">#b91d2f</color>
+    <color name="cor7">#1db98a</color>
+    <color name="cor8">#dfb31f</color>
+    <color name="cor9">#ff3700</color>
+    <color name="cor10">#fff200</color>
+    <color name="cor11">#690805</color>
+    <color name="cor12">#b91daf</color>
+    <color name="cor13">#f900a6</color>
+    <color name="cor14">#000950</color>
+    <color name="cor15">#00ffd4</color>
+    <color name="cor16">#2bff00</color>
+    <color name="cor17">#7eb8ff</color>
+    <color name="cor18">#13ac0b</color>
+    <color name="cor19">#ae0143</color>
+    <color name="cor20">#010f10</color>
+    <color name="cor21">#7b7374</color>
+    <color name="cor22">#07642f</color>
+    <color name="cor23">#915581</color>
+    <color name="cor24">#acff9d</color>
+    <color name="cor25">#8800ff</color>
+    <color name="cor26">#048339</color>
+
+
+
+</resources>
